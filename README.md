@@ -3,9 +3,13 @@ AR Sketch Invaders is a mobile-based Augmented Reality (AR) space shooter game d
 
 # Technologies Used
 Game Engine: Unity 3D
+
 Programming Language: C#
+
 AR Framework: Vuforia
+
 Platform: Android
+
 Input: Gyroscope & Touch Input
 
 
